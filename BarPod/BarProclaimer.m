@@ -16,7 +16,7 @@
 }
 
 + (void)proclaimInAlienTongue {
-	[FOOProclaimer proclaim];
+	[FooProclaimer proclaim];
 }
 
 @end
