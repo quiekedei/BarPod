@@ -11,5 +11,6 @@
 @interface BarProclaimer : NSObject
 
 + (void)proclaim;
++ (void)proclaimInAlienTongue;
 
 @end
